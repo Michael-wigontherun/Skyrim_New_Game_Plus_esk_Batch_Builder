@@ -1,0 +1,18 @@
+Filters work based off of the source plugin from the item and the EditorID of the record
+
+Rules:
+1. Syntax "pluginName;EditorIDFilter;" Always add second semicolon. 
+	Any filter with anything after the second semicolon other then a new line will be ignored.
+	Make sure there is no space at the start or end of pluginName or EditorIDFilter.
+		See rule 3 for exeption for spaces.
+
+2. ".;Ench;" will filter all plugins and then any Editor ID with Ench in the name
+	Danger: never ever do ".;;" this will funtionally filter every single item. There is a system to prevent this from happening 
+			but its an extra filter that will still be checked.
+
+3. some entries have 2 or 3 record's with similar EditorIDs
+	Example dunMistwatchRing "Fjola's Wedding Band" [ARMO:000C0164] has an EditorID of dunMistwatchRing
+		and dunMistwatchRingSell "Fjola's Wedding Band" [ARMO:000D3BDB] has an EditorID of dunMistwatchRingSell.
+		Functionally there the same item but you will see 2 "Fjola's Wedding Band" so if you use the filter
+		"Skyrim.esm;dunMistwatchRing ;" it will remove the version bethesda didn't want people to get being the
+		dunMistwatchRing "Fjola's Wedding Band" [ARMO:000C0164].

@@ -1,0 +1,2243 @@
+[
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000F2CA9",
+    "Name": "Novice Illusion",
+    "Description": "Cast Novice level Illusion spells for half magicka.",
+    "SkillType": "Illusion",
+    "RequiredAV": 0,
+    "ListString": "Novice Illusion               |Illusion            |Cast Novice level Illusion spells for half magicka.                   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000153D0",
+    "Name": "Illusion Dual Casting",
+    "Description": "Dual casting an Illusion spell overcharges the effects into an even more powerful version.",
+    "SkillType": "Illusion",
+    "RequiredAV": 20,
+    "ListString": "Illusion Dual Casting         |Illusion            |Dual casting an Illusion spell overcharges the effects into an even mo"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581E1",
+    "Name": "Animage",
+    "Description": "Illusion spells now work on higher level animals (\u002B8 levels).",
+    "SkillType": "Illusion",
+    "RequiredAV": 20,
+    "ListString": "Animage                       |Illusion            |Illusion spells now work on higher level animals (\u002B8 levels).         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C3",
+    "Name": "Apprentice Illusion",
+    "Description": "Cast Apprentice level Illusion spells for half magicka.",
+    "SkillType": "Illusion",
+    "RequiredAV": 25,
+    "ListString": "Apprentice Illusion           |Illusion            |Cast Apprentice level Illusion spells for half magicka.               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00059B77",
+    "Name": "Hypnotic Gaze",
+    "Description": "Calm spells now work on higher level opponents (\u002B8 levels).",
+    "SkillType": "Illusion",
+    "RequiredAV": 30,
+    "ListString": "Hypnotic Gaze                 |Illusion            |Calm spells now work on higher level opponents (\u002B8 levels).           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581E2",
+    "Name": "Kindred Mage",
+    "Description": "All Illusion spells work on higher level people (\u002B10 levels).",
+    "SkillType": "Illusion",
+    "RequiredAV": 40,
+    "ListString": "Kindred Mage                  |Illusion            |All Illusion spells work on higher level people (\u002B10 levels).         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C4",
+    "Name": "Adept Illusion",
+    "Description": "Cast Adept level Illusion spells for half magicka.",
+    "SkillType": "Illusion",
+    "RequiredAV": 50,
+    "ListString": "Adept Illusion                |Illusion            |Cast Adept level Illusion spells for half magicka.                    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00059B78",
+    "Name": "Aspect of Terror",
+    "Description": "Fear spells work on higher level opponents (\u002B10 levels).",
+    "SkillType": "Illusion",
+    "RequiredAV": 50,
+    "ListString": "Aspect of Terror              |Illusion            |Fear spells work on higher level opponents (\u002B10 levels).              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581FD",
+    "Name": "Quiet Casting",
+    "Description": "All spells cast from any school of magic are silent to others.",
+    "SkillType": "Illusion",
+    "RequiredAV": 50,
+    "ListString": "Quiet Casting                 |Illusion            |All spells cast from any school of magic are silent to others.        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44B5",
+    "Name": "Rage",
+    "Description": "Frenzy spells work on higher level opponents (\u002B12 levels).",
+    "SkillType": "Illusion",
+    "RequiredAV": 70,
+    "ListString": "Rage                          |Illusion            |Frenzy spells work on higher level opponents (\u002B12 levels).            "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C5",
+    "Name": "Expert Illusion",
+    "Description": "Cast Expert level Illusion spells for half magicka.",
+    "SkillType": "Illusion",
+    "RequiredAV": 75,
+    "ListString": "Expert Illusion               |Illusion            |Cast Expert level Illusion spells for half magicka.                   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00059B76",
+    "Name": "Master of the Mind",
+    "Description": "Illusion spells work on undead, daedra and automatons.",
+    "SkillType": "Illusion",
+    "RequiredAV": 90,
+    "ListString": "Master of the Mind            |Illusion            |Illusion spells work on undead, daedra and automatons.                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C6",
+    "Name": "Master Illusion",
+    "Description": "Cast Master level Illusion spells for half magicka.",
+    "SkillType": "Illusion",
+    "RequiredAV": 100,
+    "ListString": "Master Illusion               |Illusion            |Cast Master level Illusion spells for half magicka.                   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000F2CA7",
+    "Name": "Novice Conjuration",
+    "Description": "Cast Novice level Conjuration spells for half magicka",
+    "SkillType": "Conjuration",
+    "RequiredAV": 0,
+    "ListString": "Novice Conjuration            |Conjuration         |Cast Novice level Conjuration spells for half magicka                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000153CE",
+    "Name": "Conjuration Dual Casting",
+    "Description": "Dual casting a Conjuration spell overcharges the effects into a longer lasting version",
+    "SkillType": "Conjuration",
+    "RequiredAV": 20,
+    "ListString": "Conjuration Dual Casting      |Conjuration         |Dual casting a Conjuration spell overcharges the effects into a longer"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000640B3",
+    "Name": "Mystic Binding",
+    "Description": "Bound weapons do more damage",
+    "SkillType": "Conjuration",
+    "RequiredAV": 20,
+    "ListString": "Mystic Binding                |Conjuration         |Bound weapons do more damage                                          "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44BB",
+    "Name": "Apprentice Conjuration",
+    "Description": "Cast Apprentice level Conjuration spells for half magicka",
+    "SkillType": "Conjuration",
+    "RequiredAV": 25,
+    "ListString": "Apprentice Conjuration        |Conjuration         |Cast Apprentice level Conjuration spells for half magicka             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105F30",
+    "Name": "Summoner 1",
+    "Description": "Can summon Atronachs, raise undead or Dremora Lords twice as far away",
+    "SkillType": "Conjuration",
+    "RequiredAV": 30,
+    "ListString": "Summoner 1                    |Conjuration         |Can summon Atronachs, raise undead or Dremora Lords twice as far away "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105F31",
+    "Name": "Summoner 2",
+    "Description": "three times as far",
+    "SkillType": "Conjuration",
+    "RequiredAV": 70,
+    "ListString": "Summoner 2                    |Conjuration         |three times as far                                                    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000D799E",
+    "Name": "Soul Stealer",
+    "Description": "Bound weapons cast Soul Trap on targets",
+    "SkillType": "Conjuration",
+    "RequiredAV": 30,
+    "ListString": "Soul Stealer                  |Conjuration         |Bound weapons cast Soul Trap on targets                               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581DD",
+    "Name": "Necromancy",
+    "Description": "Greater duration for reanimated undead",
+    "SkillType": "Conjuration",
+    "RequiredAV": 40,
+    "ListString": "Necromancy                    |Conjuration         |Greater duration for reanimated undead                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000CB419",
+    "Name": "Atromancy",
+    "Description": "Double duration for conjured Atronachs and Dremora Lords",
+    "SkillType": "Conjuration",
+    "RequiredAV": 40,
+    "ListString": "Atromancy                     |Conjuration         |Double duration for conjured Atronachs and Dremora Lords              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000D799C",
+    "Name": "Oblivion Binding",
+    "Description": "Bound weapons will banish summoned creatures and turn raised ones",
+    "SkillType": "Conjuration",
+    "RequiredAV": 50,
+    "ListString": "Oblivion Binding              |Conjuration         |Bound weapons will banish summoned creatures and turn raised ones     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44BC",
+    "Name": "Adept Conjuration",
+    "Description": "Cast Adept level Conjuration spells for half magicka",
+    "SkillType": "Conjuration",
+    "RequiredAV": 50,
+    "ListString": "Adept Conjuration             |Conjuration         |Cast Adept level Conjuration spells for half magicka                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581DE",
+    "Name": "Dark Souls",
+    "Description": "Reanimated undead have 100 points more health",
+    "SkillType": "Conjuration",
+    "RequiredAV": 70,
+    "ListString": "Dark Souls                    |Conjuration         |Reanimated undead have 100 points more health                         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44BD",
+    "Name": "Expert Conjuration",
+    "Description": "Cast Expert level Conjuration spells for half magicka",
+    "SkillType": "Conjuration",
+    "RequiredAV": 75,
+    "ListString": "Expert Conjuration            |Conjuration         |Cast Expert level Conjuration spells for half magicka                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000CB41A",
+    "Name": "Elemental Potency",
+    "Description": "Conjured Atronachs are 50% more powerful",
+    "SkillType": "Conjuration",
+    "RequiredAV": 80,
+    "ListString": "Elemental Potency             |Conjuration         |Conjured Atronachs are 50% more powerful                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000D5F1C",
+    "Name": "Twin Souls",
+    "Description": "The player can have two conjured creatures",
+    "SkillType": "Conjuration",
+    "RequiredAV": 100,
+    "ListString": "Twin Souls                    |Conjuration         |The player can have two conjured creatures                            "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44BE",
+    "Name": "Master Conjuration*",
+    "Description": "Cast Master level Conjuration spells for half magicka",
+    "SkillType": "Conjuration",
+    "RequiredAV": 100,
+    "ListString": "Master Conjuration*           |Conjuration         |Cast Master level Conjuration spells for half magicka                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000F2CA8",
+    "Name": "Novice Destruction",
+    "Description": "Cast Novice level Destruction spells for half magicka",
+    "SkillType": "Destruction",
+    "RequiredAV": 0,
+    "ListString": "Novice Destruction            |Destruction         |Cast Novice level Destruction spells for half magicka                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000153CF",
+    "Name": "Destruction Dual Casting",
+    "Description": "Dual casting a Destruction spell overcharges the effects into an even more powerful version",
+    "SkillType": "Destruction",
+    "RequiredAV": 20,
+    "ListString": "Destruction Dual Casting      |Destruction         |Dual casting a Destruction spell overcharges the effects into an even "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44BF",
+    "Name": "Apprentice Destruction",
+    "Description": "Cast Apprentice level Destruction spells for half magicka",
+    "SkillType": "Destruction",
+    "RequiredAV": 25,
+    "ListString": "Apprentice Destruction        |Destruction         |Cast Apprentice level Destruction spells for half magicka             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581E7",
+    "Name": "Augmented Flames 1",
+    "Description": "Fire spells do 25% more damage",
+    "SkillType": "Destruction",
+    "RequiredAV": 30,
+    "ListString": "Augmented Flames 1            |Destruction         |Fire spells do 25% more damage                                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0010FCF8",
+    "Name": "Augmented Flames 2",
+    "Description": "Fire spells do 50% more damage",
+    "SkillType": "Destruction",
+    "RequiredAV": 60,
+    "ListString": "Augmented Flames 2            |Destruction         |Fire spells do 50% more damage                                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581EA",
+    "Name": "Augmented Frost 1",
+    "Description": "Frost spells do 25% more damage",
+    "SkillType": "Destruction",
+    "RequiredAV": 30,
+    "ListString": "Augmented Frost 1             |Destruction         |Frost spells do 25% more damage                                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0010FCF9",
+    "Name": "Augmented Frost 2",
+    "Description": "Frost spells do 50% more damage",
+    "SkillType": "Destruction",
+    "RequiredAV": 60,
+    "ListString": "Augmented Frost 2             |Destruction         |Frost spells do 50% more damage                                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058200",
+    "Name": "Augmented Shock 1",
+    "Description": "Shock spells do 25% more damage",
+    "SkillType": "Destruction",
+    "RequiredAV": 30,
+    "ListString": "Augmented Shock 1             |Destruction         |Shock spells do 25% more damage                                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0010FCFA",
+    "Name": "Augmented Shock 2",
+    "Description": "Shock spells do 50% more damage",
+    "SkillType": "Destruction",
+    "RequiredAV": 60,
+    "ListString": "Augmented Shock 2             |Destruction         |Shock spells do 50% more damage                                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000153D2",
+    "Name": "Impact",
+    "Description": "Most destruction spells will stagger an opponent when dual cast",
+    "SkillType": "Destruction",
+    "RequiredAV": 40,
+    "ListString": "Impact                        |Destruction         |Most destruction spells will stagger an opponent when dual cast       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105F32",
+    "Name": "Rune Master",
+    "Description": "Can place runes five times farther away",
+    "SkillType": "Destruction",
+    "RequiredAV": 40,
+    "ListString": "Rune Master                   |Destruction         |Can place runes five times farther away                               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C0",
+    "Name": "Adept Destruction",
+    "Description": "Cast Adept level Destruction spells for half magicka",
+    "SkillType": "Destruction",
+    "RequiredAV": 50,
+    "ListString": "Adept Destruction             |Destruction         |Cast Adept level Destruction spells for half magicka                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000F392E",
+    "Name": "Intense Flames",
+    "Description": "Fire damage causes targets to flee if their health is low",
+    "SkillType": "Destruction",
+    "RequiredAV": 50,
+    "ListString": "Intense Flames                |Destruction         |Fire damage causes targets to flee if their health is low             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000F3933",
+    "Name": "Deep Freeze",
+    "Description": "Frost damage paralyzes targets if their health is low",
+    "SkillType": "Destruction",
+    "RequiredAV": 60,
+    "ListString": "Deep Freeze                   |Destruction         |Frost damage paralyzes targets if their health is low                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000F3F0E",
+    "Name": "Disintegrate",
+    "Description": "Shock damage disintegrates targets if their health is low",
+    "SkillType": "Destruction",
+    "RequiredAV": 70,
+    "ListString": "Disintegrate                  |Destruction         |Shock damage disintegrates targets if their health is low             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C1",
+    "Name": "Expert Destruction",
+    "Description": "Cast Expert level Destruction spells for half magicka",
+    "SkillType": "Destruction",
+    "RequiredAV": 75,
+    "ListString": "Expert Destruction            |Destruction         |Cast Expert level Destruction spells for half magicka                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C2",
+    "Name": "Master Destruction",
+    "Description": "Cast Master level Destruction spells for half magicka",
+    "SkillType": "Destruction",
+    "RequiredAV": 100,
+    "ListString": "Master Destruction            |Destruction         |Cast Master level Destruction spells for half magicka                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000F2CAA",
+    "Name": "Novice Restoration",
+    "Description": "Cast Novice level Restoration spells for half magicka",
+    "SkillType": "Restoration",
+    "RequiredAV": 0,
+    "ListString": "Novice Restoration            |Restoration         |Cast Novice level Restoration spells for half magicka                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000153D1",
+    "Name": "Restoration Dual Casting",
+    "Description": "Dual casting a Restoration spell overcharges the effects into an even more powerful version",
+    "SkillType": "Restoration",
+    "RequiredAV": 20,
+    "ListString": "Restoration Dual Casting      |Restoration         |Dual casting a Restoration spell overcharges the effects into an even "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581F8",
+    "Name": "Regeneration",
+    "Description": "Healing spells cure 50% more",
+    "SkillType": "Restoration",
+    "RequiredAV": 20,
+    "ListString": "Regeneration                  |Restoration         |Healing spells cure 50% more                                          "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C7",
+    "Name": "Apprentice Restoration",
+    "Description": "Cast Apprentice level Restoration spells for half magicka",
+    "SkillType": "Restoration",
+    "RequiredAV": 25,
+    "ListString": "Apprentice Restoration        |Restoration         |Cast Apprentice level Restoration spells for half magicka             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581F4",
+    "Name": "Recovery 1",
+    "Description": "Magicka regenerates 25%",
+    "SkillType": "Restoration",
+    "RequiredAV": 30,
+    "ListString": "Recovery 1                    |Restoration         |Magicka regenerates 25%                                               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581F5",
+    "Name": "Recovery 2",
+    "Description": "Magicka regenerates 50%",
+    "SkillType": "Restoration",
+    "RequiredAV": 60,
+    "ListString": "Recovery 2                    |Restoration         |Magicka regenerates 50%                                               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581F9",
+    "Name": "Respite",
+    "Description": "Healing spells also restore stamina",
+    "SkillType": "Restoration",
+    "RequiredAV": 40,
+    "ListString": "Respite                       |Restoration         |Healing spells also restore stamina                                   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C8",
+    "Name": "Adept Restoration",
+    "Description": "Cast Adept level Restoration spells for half magicka",
+    "SkillType": "Restoration",
+    "RequiredAV": 50,
+    "ListString": "Adept Restoration             |Restoration         |Cast Adept level Restoration spells for half magicka                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00068BCC",
+    "Name": "Ward Absorb",
+    "Description": "Wards that are cast absorb 25% of magicka that hits them.",
+    "SkillType": "Restoration",
+    "RequiredAV": 60,
+    "ListString": "Ward Absorb                   |Restoration         |Wards that are cast absorb 25% of magicka that hits them.             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581E4",
+    "Name": "Necromage",
+    "Description": "All spells are more effective against undead",
+    "SkillType": "Restoration",
+    "RequiredAV": 70,
+    "ListString": "Necromage                     |Restoration         |All spells are more effective against undead                          "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44C9",
+    "Name": "Expert Restoration",
+    "Description": "Cast Expert level Restoration spells for half magicka",
+    "SkillType": "Restoration",
+    "RequiredAV": 75,
+    "ListString": "Expert Restoration            |Restoration         |Cast Expert level Restoration spells for half magicka                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000A3F64",
+    "Name": "Avoid Death",
+    "Description": "Once a day, heals 250 points automatically if the caster falls below 10% health (possible to get 400 heath regenerated when stacked with\u00A0Sailor\u0027s Repose\u00A0and the Regeneration perk)",
+    "SkillType": "Restoration",
+    "RequiredAV": 90,
+    "ListString": "Avoid Death                   |Restoration         |Once a day, heals 250 points automatically if the caster falls below 1"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44CA",
+    "Name": "Master Restoration",
+    "Description": "Cast Master level Restoration spells for half magicka",
+    "SkillType": "Restoration",
+    "RequiredAV": 100,
+    "ListString": "Master Restoration            |Restoration         |Cast Master level Restoration spells for half magicka                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000F2CA6",
+    "Name": "Novice Alteration",
+    "Description": "Cast Novice level Alteration spells for half magicka",
+    "SkillType": "Alteration",
+    "RequiredAV": 0,
+    "ListString": "Novice Alteration             |Alteration          |Cast Novice level Alteration spells for half magicka                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000153CD",
+    "Name": "Alteration Dual Casting",
+    "Description": "Dual casting an Alteration spell overcharges the effects into an even more powerful version",
+    "SkillType": "Alteration",
+    "RequiredAV": 20,
+    "ListString": "Alteration Dual Casting       |Alteration          |Dual casting an Alteration spell overcharges the effects into an even "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44B7",
+    "Name": "Apprentice Alteration",
+    "Description": "Cast Apprentice level Alteration spells for half magicka",
+    "SkillType": "Alteration",
+    "RequiredAV": 25,
+    "ListString": "Apprentice Alteration         |Alteration          |Cast Apprentice level Alteration spells for half magicka              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000D7999",
+    "Name": "Mage Armor\u00A01",
+    "Description": "Protection spells like Stoneflesh are twice as strong if not wearing armor",
+    "SkillType": "Alteration",
+    "RequiredAV": 30,
+    "ListString": "Mage Armor\u00A01                  |Alteration          |Protection spells like Stoneflesh are twice as strong if not wearing a"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000D799A",
+    "Name": "Mage Armor\u00A02",
+    "Description": "\u002B0.5 more Protection",
+    "SkillType": "Alteration",
+    "RequiredAV": 50,
+    "ListString": "Mage Armor\u00A02                  |Alteration          |\u002B0.5 more Protection                                                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000D799B",
+    "Name": "Mage Armor\u00A03",
+    "Description": "\u002B0.5 more Protection",
+    "SkillType": "Alteration",
+    "RequiredAV": 70,
+    "ListString": "Mage Armor\u00A03                  |Alteration          |\u002B0.5 more Protection                                                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00053128",
+    "Name": "Magic Resistance 1",
+    "Description": "Blocks 10% of a spells effect.",
+    "SkillType": "Alteration",
+    "RequiredAV": 30,
+    "ListString": "Magic Resistance 1            |Alteration          |Blocks 10% of a spells effect.                                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00053129",
+    "Name": "Magic Resistance 2",
+    "Description": "Blocks 20% of a spells effect.",
+    "SkillType": "Alteration",
+    "RequiredAV": 50,
+    "ListString": "Magic Resistance 2            |Alteration          |Blocks 20% of a spells effect.                                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0005312A",
+    "Name": "Magic Resistance 3",
+    "Description": "Blocks 30% of a spells effect.",
+    "SkillType": "Alteration",
+    "RequiredAV": 70,
+    "ListString": "Magic Resistance 3            |Alteration          |Blocks 30% of a spells effect.                                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44B8",
+    "Name": "Adept Alteration",
+    "Description": "Cast Adept level Alteration spells for half magicka",
+    "SkillType": "Alteration",
+    "RequiredAV": 50,
+    "ListString": "Adept Alteration              |Alteration          |Cast Adept level Alteration spells for half magicka                   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581FC",
+    "Name": "Stability",
+    "Description": "Alteration spells have greater duration (\u002B50%)",
+    "SkillType": "Alteration",
+    "RequiredAV": 70,
+    "ListString": "Stability                     |Alteration          |Alteration spells have greater duration (\u002B50%)                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44B9",
+    "Name": "Expert Alteration",
+    "Description": "Cast Expert level Alteration spells for half magicka",
+    "SkillType": "Alteration",
+    "RequiredAV": 75,
+    "ListString": "Expert Alteration             |Alteration          |Cast Expert level Alteration spells for half magicka                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000581F7",
+    "Name": "Atronach",
+    "Description": "Grants 30%\u00A0Spell Absorption",
+    "SkillType": "Alteration",
+    "RequiredAV": 100,
+    "ListString": "Atronach                      |Alteration          |Grants 30%\u00A0Spell Absorption                                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C44BA",
+    "Name": "Master Alteration",
+    "Description": "Cast Master level Alteration spells for half magicka",
+    "SkillType": "Alteration",
+    "RequiredAV": 100,
+    "ListString": "Master Alteration             |Alteration          |Cast Master level Alteration spells for half magicka                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000BEE97",
+    "Name": "Enchanter 1",
+    "Description": "New enchantments are 20% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 0,
+    "ListString": "Enchanter 1                   |Enchanting          |New enchantments are 20% stronger                                     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C367C",
+    "Name": "Enchanter 2",
+    "Description": "New enchantments are 40% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 20,
+    "ListString": "Enchanter 2                   |Enchanting          |New enchantments are 40% stronger                                     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C367D",
+    "Name": "Enchanter 3",
+    "Description": "New enchantments are 60% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 40,
+    "ListString": "Enchanter 3                   |Enchanting          |New enchantments are 60% stronger                                     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C367E",
+    "Name": "Enchanter 4",
+    "Description": "New enchantments are 80% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 60,
+    "ListString": "Enchanter 4                   |Enchanting          |New enchantments are 80% stronger                                     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000C367F",
+    "Name": "Enchanter 5",
+    "Description": "New enchantments are 100% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 80,
+    "ListString": "Enchanter 5                   |Enchanting          |New enchantments are 100% stronger                                    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058F7C",
+    "Name": "Soul Squeezer",
+    "Description": "Soul gems\u00A0provide extra magicka for recharging",
+    "SkillType": "Enchanting",
+    "RequiredAV": 20,
+    "ListString": "Soul Squeezer                 |Enchanting          |Soul gems\u00A0provide extra magicka for recharging                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058F80",
+    "Name": "Fire Enchanter",
+    "Description": "Fire enchantments on weapons and armor are 25% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 30,
+    "ListString": "Fire Enchanter                |Enchanting          |Fire enchantments on weapons and armor are 25% stronger               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00108A44",
+    "Name": "Soul Siphon",
+    "Description": "Death blows to creatures, but not people, trap 5% of the victim\u0027s soul, recharging the weapon",
+    "SkillType": "Enchanting",
+    "RequiredAV": 40,
+    "ListString": "Soul Siphon                   |Enchanting          |Death blows to creatures, but not people, trap 5% of the victim\u0027s soul"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058F81",
+    "Name": "Frost Enchanter",
+    "Description": "Frost enchantments on weapons and armor are 25% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 40,
+    "ListString": "Frost Enchanter               |Enchanting          |Frost enchantments on weapons and armor are 25% stronger              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058F7E",
+    "Name": "Insightful Enchanter",
+    "Description": "Skill enchantments on armor are 25% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 50,
+    "ListString": "Insightful Enchanter          |Enchanting          |Skill enchantments on armor are 25% stronger                          "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058F82",
+    "Name": "Storm Enchanter",
+    "Description": "Shock enchantments on weapons and armor are 25% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 50,
+    "ListString": "Storm Enchanter               |Enchanting          |Shock enchantments on weapons and armor are 25% stronger              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058F7D",
+    "Name": "Corpus Enchanter",
+    "Description": "Health, magicka and stamina enchantments on armor are 25% stronger",
+    "SkillType": "Enchanting",
+    "RequiredAV": 70,
+    "ListString": "Corpus Enchanter              |Enchanting          |Health, magicka and stamina enchantments on armor are 25% stronger    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058F7F",
+    "Name": "Extra Effect",
+    "Description": "Can put two enchantments on the same item",
+    "SkillType": "Enchanting",
+    "RequiredAV": 100,
+    "ListString": "Extra Effect                  |Enchanting          |Can put two enchantments on the same item                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000babed",
+    "Name": "Overdraw",
+    "Description": "Bows do 20% more damage.",
+    "SkillType": "Archery",
+    "RequiredAV": 0,
+    "ListString": "Overdraw                      |Archery             |Bows do 20% more damage.                                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0007934a",
+    "Name": "Overdraw",
+    "Description": "Bows do 40% more damage.",
+    "SkillType": "Archery",
+    "RequiredAV": 20,
+    "ListString": "Overdraw                      |Archery             |Bows do 40% more damage.                                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0007934b",
+    "Name": "Overdraw",
+    "Description": "Bows do 60% more damage.",
+    "SkillType": "Archery",
+    "RequiredAV": 40,
+    "ListString": "Overdraw                      |Archery             |Bows do 60% more damage.                                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0007934d",
+    "Name": "Overdraw",
+    "Description": "Bows do 80% more damage.",
+    "SkillType": "Archery",
+    "RequiredAV": 60,
+    "ListString": "Overdraw                      |Archery             |Bows do 80% more damage.                                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079354",
+    "Name": "Overdraw",
+    "Description": "Bows do twice as much damage.",
+    "SkillType": "Archery",
+    "RequiredAV": 80,
+    "ListString": "Overdraw                      |Archery             |Bows do twice as much damage.                                         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f61",
+    "Name": "Eagle Eye",
+    "Description": "Pressing Block while aiming will zoom in your view.",
+    "SkillType": "Archery",
+    "RequiredAV": 30,
+    "ListString": "Eagle Eye                     |Archery             |Pressing Block while aiming will zoom in your view.                   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f1c",
+    "Name": "Critical Shot",
+    "Description": "10% chance of a critical hit that does extra damage.",
+    "SkillType": "Archery",
+    "RequiredAV": 30,
+    "ListString": "Critical Shot                 |Archery             |10% chance of a critical hit that does extra damage.                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f1e",
+    "Name": "Critical Shot",
+    "Description": "15% chance of a critical hit that does 25% more critical damage.",
+    "SkillType": "Archery",
+    "RequiredAV": 60,
+    "ListString": "Critical Shot                 |Archery             |15% chance of a critical hit that does 25% more critical damage.      "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f1f",
+    "Name": "Critical Shot",
+    "Description": "20% chance of a critical hit that does 50% more critical damage.",
+    "SkillType": "Archery",
+    "RequiredAV": 90,
+    "ListString": "Critical Shot                 |Archery             |20% chance of a critical hit that does 50% more critical damage.      "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00103ada",
+    "Name": "Steady Hand",
+    "Description": "Zooming in with a bow slows time by 25%.",
+    "SkillType": "Archery",
+    "RequiredAV": 40,
+    "ListString": "Steady Hand                   |Archery             |Zooming in with a bow slows time by 25%.                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00103adb",
+    "Name": "Steady Hand",
+    "Description": "Zooming in with a bow slows time by 50%.",
+    "SkillType": "Archery",
+    "RequiredAV": 60,
+    "ListString": "Steady Hand                   |Archery             |Zooming in with a bow slows time by 50%.                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00051b12",
+    "Name": "Hunter\u0027s Discipline",
+    "Description": "Recover twice as many arrows from dead bodies.",
+    "SkillType": "Archery",
+    "RequiredAV": 50,
+    "ListString": "Hunter\u0027s Discipline           |Archery             |Recover twice as many arrows from dead bodies.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f62",
+    "Name": "Power Shot",
+    "Description": "Arrows stagger all but the largest opponents 50% of the time.",
+    "SkillType": "Archery",
+    "RequiredAV": 50,
+    "ListString": "Power Shot                    |Archery             |Arrows stagger all but the largest opponents 50% of the time.         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f63",
+    "Name": "Ranger",
+    "Description": "Able to move faster with a drawn bow.",
+    "SkillType": "Archery",
+    "RequiredAV": 60,
+    "ListString": "Ranger                        |Archery             |Able to move faster with a drawn bow.                                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f19",
+    "Name": "Quick Shot",
+    "Description": "Can draw a bow 30% faster.",
+    "SkillType": "Archery",
+    "RequiredAV": 70,
+    "ListString": "Quick Shot                    |Archery             |Can draw a bow 30% faster.                                            "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f64",
+    "Name": "Bullseye",
+    "Description": "15% chance of paralyzing the target for a few seconds.",
+    "SkillType": "Archery",
+    "RequiredAV": 100,
+    "ListString": "Bullseye                      |Archery             |15% chance of paralyzing the target for a few seconds.                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000bccae",
+    "Name": "Shield Wall",
+    "Description": "Blocking is 20% more effective.",
+    "SkillType": "Block",
+    "RequiredAV": 0,
+    "ListString": "Shield Wall                   |Block               |Blocking is 20% more effective.                                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079355",
+    "Name": "Shield Wall",
+    "Description": "Blocking is 25% more effective.",
+    "SkillType": "Block",
+    "RequiredAV": 20,
+    "ListString": "Shield Wall                   |Block               |Blocking is 25% more effective.                                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079356",
+    "Name": "Shield Wall",
+    "Description": "Blocking is 30% more effective.",
+    "SkillType": "Block",
+    "RequiredAV": 40,
+    "ListString": "Shield Wall                   |Block               |Blocking is 30% more effective.                                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079357",
+    "Name": "Shield Wall",
+    "Description": "Blocking is 35% more effective.",
+    "SkillType": "Block",
+    "RequiredAV": 60,
+    "ListString": "Shield Wall                   |Block               |Blocking is 35% more effective.                                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079358",
+    "Name": "Shield Wall",
+    "Description": "Blocking is 40% more effective.",
+    "SkillType": "Block",
+    "RequiredAV": 80,
+    "ListString": "Shield Wall                   |Block               |Blocking is 40% more effective.                                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000d8c33",
+    "Name": "Quick Reflexes",
+    "Description": "Time slows down if you are blocking during an enemy\u0027s power attack.",
+    "SkillType": "Block",
+    "RequiredAV": 30,
+    "ListString": "Quick Reflexes                |Block               |Time slows down if you are blocking during an enemy\u0027s power attack.   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f67",
+    "Name": "Power Bash",
+    "Description": "Able to do a power bash.",
+    "SkillType": "Block",
+    "RequiredAV": 30,
+    "ListString": "Power Bash                    |Block               |Able to do a power bash.                                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f68",
+    "Name": "Deflect Arrows",
+    "Description": "Arrows that hit the shield do no damage.",
+    "SkillType": "Block",
+    "RequiredAV": 30,
+    "ListString": "Deflect Arrows                |Block               |Arrows that hit the shield do no damage.                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f69",
+    "Name": "Elemental Protection",
+    "Description": "Blocking with a shield reduces incoming fire, frost, and shock damage by 50%.",
+    "SkillType": "Block",
+    "RequiredAV": 50,
+    "ListString": "Elemental Protection          |Block               |Blocking with a shield reduces incoming fire, frost, and shock damage "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0005f594",
+    "Name": "Deadly Bash",
+    "Description": "Bashing does five times more damage.",
+    "SkillType": "Block",
+    "RequiredAV": 50,
+    "ListString": "Deadly Bash                   |Block               |Bashing does five times more damage.                                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00106253",
+    "Name": "Block Runner",
+    "Description": "Able to move faster with a shield or weapon raised.",
+    "SkillType": "Block",
+    "RequiredAV": 70,
+    "ListString": "Block Runner                  |Block               |Able to move faster with a shield or weapon raised.                   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f66",
+    "Name": "Disarming Bash",
+    "Description": "Chance to disarm when power bashing.",
+    "SkillType": "Block",
+    "RequiredAV": 70,
+    "ListString": "Disarming Bash                |Block               |Chance to disarm when power bashing.                                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f6a",
+    "Name": "Shield Charge",
+    "Description": "Sprinting with a shield raised knocks down most targets.",
+    "SkillType": "Block",
+    "RequiredAV": 100,
+    "ListString": "Shield Charge                 |Block               |Sprinting with a shield raised knocks down most targets.              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000bcd2a",
+    "Name": "Juggernaut",
+    "Description": "Increases armor rating for Heavy Armor by 20%.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 0,
+    "ListString": "Juggernaut                    |Heavy Armor         |Increases armor rating for Heavy Armor by 20%.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0007935e",
+    "Name": "Juggernaut",
+    "Description": "Increases armor rating for Heavy Armor by 40%.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 20,
+    "ListString": "Juggernaut                    |Heavy Armor         |Increases armor rating for Heavy Armor by 40%.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079361",
+    "Name": "Juggernaut",
+    "Description": "Increases armor rating for Heavy Armor by 60%.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 40,
+    "ListString": "Juggernaut                    |Heavy Armor         |Increases armor rating for Heavy Armor by 60%.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079362",
+    "Name": "Juggernaut",
+    "Description": "Increases armor rating for Heavy Armor by 80%.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 60,
+    "ListString": "Juggernaut                    |Heavy Armor         |Increases armor rating for Heavy Armor by 80%.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079374",
+    "Name": "Juggernaut",
+    "Description": "Increases armor rating for Heavy Armor by 100%.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 80,
+    "ListString": "Juggernaut                    |Heavy Armor         |Increases armor rating for Heavy Armor by 100%.                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f6e",
+    "Name": "Fists of Steel",
+    "Description": "Unarmed attacks with Heavy Armor gauntlets do their armor rating in extra damage.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 30,
+    "ListString": "Fists of Steel                |Heavy Armor         |Unarmed attacks with Heavy Armor gauntlets do their armor rating in ex"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f6f",
+    "Name": "Well Fitted",
+    "Description": "25% Armor bonus if wearing all Heavy Armor: head, chest, hands, feet.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 30,
+    "ListString": "Well Fitted                   |Heavy Armor         |25% Armor bonus if wearing all Heavy Armor: head, chest, hands, feet. "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000bcd2b",
+    "Name": "Cushioned",
+    "Description": "Half damage from\u00A0falling\u00A0if wearing all Heavy Armor: head, chest, hands, feet.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 50,
+    "ListString": "Cushioned                     |Heavy Armor         |Half damage from\u00A0falling\u00A0if wearing all Heavy Armor: head, chest, hand"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f6c",
+    "Name": "Tower of Strength",
+    "Description": "50% less stagger when wearing only Heavy Armor.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 50,
+    "ListString": "Tower of Strength             |Heavy Armor         |50% less stagger when wearing only Heavy Armor.                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f6d",
+    "Name": "Conditioning",
+    "Description": "Heavy Armor weighs nothing and doesn\u0027t slow you down when worn.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 70,
+    "ListString": "Conditioning                  |Heavy Armor         |Heavy Armor weighs nothing and doesn\u0027t slow you down when worn.       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00107832",
+    "Name": "Matching Set",
+    "Description": "Additional 25% Armor bonus if wearing a matched set\u00A0of Heavy Armor.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 70,
+    "ListString": "Matching Set                  |Heavy Armor         |Additional 25% Armor bonus if wearing a matched set\u00A0of Heavy Armor.   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f33",
+    "Name": "Reflect Blows",
+    "Description": "10% chance to reflect melee damage back to the enemy while wearing all Heavy Armor: head, chest, hands, feet.",
+    "SkillType": "Heavy Armor",
+    "RequiredAV": 100,
+    "ListString": "Reflect Blows                 |Heavy Armor         |10% chance to reflect melee damage back to the enemy while wearing all"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000babe4",
+    "Name": "Armsman",
+    "Description": "One-Handed weapons do 20% more damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 0,
+    "ListString": "Armsman                       |One-handed          |One-Handed weapons do 20% more damage.                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079343",
+    "Name": "Armsman",
+    "Description": "One-Handed weapons do 40% more damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 20,
+    "ListString": "Armsman                       |One-handed          |One-Handed weapons do 40% more damage.                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079342",
+    "Name": "Armsman",
+    "Description": "One-Handed weapons do 60% more damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 40,
+    "ListString": "Armsman                       |One-handed          |One-Handed weapons do 60% more damage.                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079344",
+    "Name": "Armsman",
+    "Description": "One-Handed weapons do 80% more damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 60,
+    "ListString": "Armsman                       |One-handed          |One-Handed weapons do 80% more damage.                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079345",
+    "Name": "Armsman",
+    "Description": "One-Handed weapons do twice as much damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 80,
+    "ListString": "Armsman                       |One-handed          |One-Handed weapons do twice as much damage.                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00052d50",
+    "Name": "Fighting Stance",
+    "Description": "Power attacks with one-handed weapons cost 25% less\u00A0stamina.",
+    "SkillType": "One-handed",
+    "RequiredAV": 20,
+    "ListString": "Fighting Stance               |One-handed          |Power attacks with one-handed weapons cost 25% less\u00A0stamina.          "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0005f56f",
+    "Name": "Bladesman",
+    "Description": "Attacks with\u00A0swords\u00A0have a 10% chance of doing\u00A0critical damage\u00A0(\u002B0% crit damage).",
+    "SkillType": "One-handed",
+    "RequiredAV": 30,
+    "ListString": "Bladesman                     |One-handed          |Attacks with\u00A0swords\u00A0have a 10% chance of doing\u00A0critical damage\u00A0(\u002B0% cr"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c1e90",
+    "Name": "Bladesman",
+    "Description": "Attacks with swords have a 15% chance of doing more critical damage (\u002B25% crit damage).",
+    "SkillType": "One-handed",
+    "RequiredAV": 60,
+    "ListString": "Bladesman                     |One-handed          |Attacks with swords have a 15% chance of doing more critical damage (\u002B"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c1e91",
+    "Name": "Bladesman",
+    "Description": "Attacks with swords have a 20% chance of doing even more critical damage (\u002B50% crit damage).",
+    "SkillType": "One-handed",
+    "RequiredAV": 90,
+    "ListString": "Bladesman                     |One-handed          |Attacks with swords have a 20% chance of doing even more critical dama"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0005f592",
+    "Name": "Bone Breaker",
+    "Description": "Attacks with\u00A0maces\u00A0ignore 25% of armor.",
+    "SkillType": "One-handed",
+    "RequiredAV": 30,
+    "ListString": "Bone Breaker                  |One-handed          |Attacks with\u00A0maces\u00A0ignore 25% of armor.                               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c1e92",
+    "Name": "Bone Breaker",
+    "Description": "Attacks with maces ignore 50% of armor.",
+    "SkillType": "One-handed",
+    "RequiredAV": 60,
+    "ListString": "Bone Breaker                  |One-handed          |Attacks with maces ignore 50% of armor.                               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c1e93",
+    "Name": "Bone Breaker",
+    "Description": "Attacks with maces ignore 75% of armor.",
+    "SkillType": "One-handed",
+    "RequiredAV": 90,
+    "ListString": "Bone Breaker                  |One-handed          |Attacks with maces ignore 75% of armor.                               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0003fffa",
+    "Name": "Hack and Slash",
+    "Description": "Attacks with\u00A0war axes\u00A0cause extra\u00A0bleeding damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 30,
+    "ListString": "Hack and Slash                |One-handed          |Attacks with\u00A0war axes\u00A0cause extra\u00A0bleeding damage.                    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c3678",
+    "Name": "Hack and Slash",
+    "Description": "Attacks with war axes cause more bleeding damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 60,
+    "ListString": "Hack and Slash                |One-handed          |Attacks with war axes cause more bleeding damage.                     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c3679",
+    "Name": "Hack and Slash",
+    "Description": "Attacks with war axes cause even more bleeding damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 90,
+    "ListString": "Hack and Slash                |One-handed          |Attacks with war axes cause even more bleeding damage.                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00106256",
+    "Name": "Dual Flurry",
+    "Description": "Dual wielding attacks are 20% faster.",
+    "SkillType": "One-handed",
+    "RequiredAV": 30,
+    "ListString": "Dual Flurry                   |One-handed          |Dual wielding attacks are 20% faster.                                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00106257",
+    "Name": "Dual Flurry",
+    "Description": "Dual wielding attacks are 35% faster.",
+    "SkillType": "One-handed",
+    "RequiredAV": 50,
+    "ListString": "Dual Flurry                   |One-handed          |Dual wielding attacks are 35% faster.                                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb406",
+    "Name": "Critical Charge",
+    "Description": "Can do a one-handed power attack while sprinting that does double critical damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 50,
+    "ListString": "Critical Charge               |One-handed          |Can do a one-handed power attack while sprinting that does double crit"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0003af81",
+    "Name": "Savage Strike",
+    "Description": "Standing power attacks do 25% bonus damage with a chance to decapitate your enemies.",
+    "SkillType": "One-handed",
+    "RequiredAV": 50,
+    "ListString": "Savage Strike                 |One-handed          |Standing power attacks do 25% bonus damage with a chance to decapitate"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00106258",
+    "Name": "Dual Savagery",
+    "Description": "Dual wielding\u00A0power attacks\u00A0do 50% bonus damage.",
+    "SkillType": "One-handed",
+    "RequiredAV": 70,
+    "ListString": "Dual Savagery                 |One-handed          |Dual wielding\u00A0power attacks\u00A0do 50% bonus damage.                      "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0003afa6",
+    "Name": "Paralyzing Strike",
+    "Description": "Backwards power attack has a 25% chance to\u00A0paralyze\u00A0the target.",
+    "SkillType": "One-handed",
+    "RequiredAV": 100,
+    "ListString": "Paralyzing Strike             |One-handed          |Backwards power attack has a 25% chance to\u00A0paralyze\u00A0the target.       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb40d",
+    "Name": "Steel Smithing",
+    "Description": "Can create\u00A0Steel\u00A0armor and weapons at\u00A0forges, and improve them twice as much.",
+    "SkillType": "Smithing",
+    "RequiredAV": 0,
+    "ListString": "Steel Smithing                |Smithing            |Can create\u00A0Steel\u00A0armor and weapons at\u00A0forges, and improve them twice a"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0005218e",
+    "Name": "Arcane Blacksmith",
+    "Description": "You can improve magical weapons and armor.",
+    "SkillType": "Smithing",
+    "RequiredAV": 60,
+    "ListString": "Arcane Blacksmith             |Smithing            |You can improve magical weapons and armor.                            "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb40e",
+    "Name": "Dwarven Smithing",
+    "Description": "Can create\u00A0Dwarven\u00A0armor and weapons at\u00A0forges, and improve them twice as much.",
+    "SkillType": "Smithing",
+    "RequiredAV": 30,
+    "ListString": "Dwarven Smithing              |Smithing            |Can create\u00A0Dwarven\u00A0armor and weapons at\u00A0forges, and improve them twice"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb40f",
+    "Name": "Elven Smithing",
+    "Description": "Can create\u00A0Elven\u00A0armor and weapons at\u00A0forges, and improve them twice as much.",
+    "SkillType": "Smithing",
+    "RequiredAV": 30,
+    "ListString": "Elven Smithing                |Smithing            |Can create\u00A0Elven\u00A0armor and weapons at\u00A0forges, and improve them twice a"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb410",
+    "Name": "Orcish Smithing",
+    "Description": "Can create\u00A0Orcish\u00A0armor and weapons at\u00A0forges, and improve them twice as much.",
+    "SkillType": "Smithing",
+    "RequiredAV": 50,
+    "ListString": "Orcish Smithing               |Smithing            |Can create\u00A0Orcish\u00A0armor and weapons at\u00A0forges, and improve them twice "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb414",
+    "Name": "Advanced Armors",
+    "Description": "Can create\u00A0Scaled\u00A0and\u00A0Plate\u00A0armor at\u00A0forges, and improve them twice as much.",
+    "SkillType": "Smithing",
+    "RequiredAV": 50,
+    "ListString": "Advanced Armors               |Smithing            |Can create\u00A0Scaled\u00A0and\u00A0Plate\u00A0armor at\u00A0forges, and improve them twice as"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb411",
+    "Name": "Glass Smithing",
+    "Description": "Can create\u00A0Glass\u00A0armor and weapons at\u00A0forges, and improve them twice as much.",
+    "SkillType": "Smithing",
+    "RequiredAV": 70,
+    "ListString": "Glass Smithing                |Smithing            |Can create\u00A0Glass\u00A0armor and weapons at\u00A0forges, and improve them twice a"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb412",
+    "Name": "Ebony Smithing",
+    "Description": "Can create\u00A0Ebony\u00A0armor and weapons at\u00A0forges, and improve them twice as much.",
+    "SkillType": "Smithing",
+    "RequiredAV": 80,
+    "ListString": "Ebony Smithing                |Smithing            |Can create\u00A0Ebony\u00A0armor and weapons at\u00A0forges, and improve them twice a"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb413",
+    "Name": "Daedric Smithing",
+    "Description": "Can create\u00A0Daedric\u00A0armor and weapons at\u00A0forges, and improve them twice as much.",
+    "SkillType": "Smithing",
+    "RequiredAV": 90,
+    "ListString": "Daedric Smithing              |Smithing            |Can create\u00A0Daedric\u00A0armor and weapons at\u00A0forges, and improve them twice"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00052190",
+    "Name": "Dragon Armor",
+    "Description": "Can create\u00A0Dragon\u00A0armor at\u00A0forges, and improve them twice as much.",
+    "SkillType": "Smithing",
+    "RequiredAV": 100,
+    "ListString": "Dragon Armor                  |Smithing            |Can create\u00A0Dragon\u00A0armor at\u00A0forges, and improve them twice as much.    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000babe8",
+    "Name": "Barbarian",
+    "Description": "Two-Handed weapons do 20% more damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 0,
+    "ListString": "Barbarian                     |Two-handed          |Two-Handed weapons do 20% more damage.                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079346",
+    "Name": "Barbarian",
+    "Description": "Two-Handed weapons do 40% more damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 20,
+    "ListString": "Barbarian                     |Two-handed          |Two-Handed weapons do 40% more damage.                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079347",
+    "Name": "Barbarian",
+    "Description": "Two-Handed weapons do 60% more damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 40,
+    "ListString": "Barbarian                     |Two-handed          |Two-Handed weapons do 60% more damage.                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079348",
+    "Name": "Barbarian",
+    "Description": "Two-Handed weapons do 80% more damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 60,
+    "ListString": "Barbarian                     |Two-handed          |Two-Handed weapons do 80% more damage.                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079349",
+    "Name": "Barbarian",
+    "Description": "Two-Handed weapons do twice as much damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 80,
+    "ListString": "Barbarian                     |Two-handed          |Two-Handed weapons do twice as much damage.                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00052d51",
+    "Name": "Champion\u0027s Stance",
+    "Description": "Power attacks\u00A0with two-handed weapons cost 25% less stamina.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 20,
+    "ListString": "Champion\u0027s Stance             |Two-handed          |Power attacks\u00A0with two-handed weapons cost 25% less stamina.          "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0003af83",
+    "Name": "Deep Wounds",
+    "Description": "Attacks with\u00A0greatswords\u00A0have a 10% chance of doing\u00A0critical damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 30,
+    "ListString": "Deep Wounds                   |Two-handed          |Attacks with\u00A0greatswords\u00A0have a 10% chance of doing\u00A0critical damage.  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c1e94",
+    "Name": "Deep Wounds",
+    "Description": "Attacks with greatswords have a 15% chance of doing more critical damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 60,
+    "ListString": "Deep Wounds                   |Two-handed          |Attacks with greatswords have a 15% chance of doing more critical dama"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c1e95",
+    "Name": "Deep Wounds",
+    "Description": "Attacks with greatswords have a 20% chance of doing even more critical damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 90,
+    "ListString": "Deep Wounds                   |Two-handed          |Attacks with greatswords have a 20% chance of doing even more critical"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c5c05",
+    "Name": "Limbsplitter",
+    "Description": "Attacks with\u00A0battle axes\u00A0cause extra\u00A0bleeding damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 30,
+    "ListString": "Limbsplitter                  |Two-handed          |Attacks with\u00A0battle axes\u00A0cause extra\u00A0bleeding damage.                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c5c06",
+    "Name": "Limbsplitter",
+    "Description": "Attacks with battle axes cause more bleeding damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 60,
+    "ListString": "Limbsplitter                  |Two-handed          |Attacks with battle axes cause more bleeding damage.                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c5c07",
+    "Name": "Limbsplitter",
+    "Description": "Attacks with battle axes cause even more bleeding damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 90,
+    "ListString": "Limbsplitter                  |Two-handed          |Attacks with battle axes cause even more bleeding damage.             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0003af84",
+    "Name": "Skullcrusher",
+    "Description": "Attacks with\u00A0warhammers\u00A0ignore 25% of armor.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 30,
+    "ListString": "Skullcrusher                  |Two-handed          |Attacks with\u00A0warhammers\u00A0ignore 25% of armor.                          "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00052d52",
+    "Name": "Devastating Blow",
+    "Description": "Standing power attacks do 25% bonus damage with a chance to decapitate your enemies.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 50,
+    "ListString": "Devastating Blow              |Two-handed          |Standing power attacks do 25% bonus damage with a chance to decapitate"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000cb407",
+    "Name": "Great Critical Charge",
+    "Description": "Can do a two-handed power attack while sprinting that does double critical damage.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 50,
+    "ListString": "Great Critical Charge         |Two-handed          |Can do a two-handed power attack while sprinting that does double crit"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0003af9e",
+    "Name": "Sweep",
+    "Description": "Sideways power attacks with two-handed weapons hit all targets in front of you.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 70,
+    "ListString": "Sweep                         |Two-handed          |Sideways power attacks with two-handed weapons hit all targets in fron"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0003afa7",
+    "Name": "Warmaster",
+    "Description": "Backwards power attack has a 25% chance to paralyze the target.",
+    "SkillType": "Two-handed",
+    "RequiredAV": 100,
+    "ListString": "Warmaster                     |Two-handed          |Backwards power attack has a 25% chance to paralyze the target.       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000be127",
+    "Name": "Alchemist",
+    "Description": "Potions and poisons you make are 20% stronger.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 0,
+    "ListString": "Alchemist                     |Alchemy             |Potions and poisons you make are 20% stronger.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07ca",
+    "Name": "Alchemist",
+    "Description": "Potions and poisons you make are 40% stronger.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 20,
+    "ListString": "Alchemist                     |Alchemy             |Potions and poisons you make are 40% stronger.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07cb",
+    "Name": "Alchemist",
+    "Description": "Potions and poisons you make are 60% stronger.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 40,
+    "ListString": "Alchemist                     |Alchemy             |Potions and poisons you make are 60% stronger.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07cc",
+    "Name": "Alchemist",
+    "Description": "Potions and poisons you make are 80% stronger.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 60,
+    "ListString": "Alchemist                     |Alchemy             |Potions and poisons you make are 80% stronger.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07cd",
+    "Name": "Alchemist",
+    "Description": "Potions and poisons you make are twice as strong.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 80,
+    "ListString": "Alchemist                     |Alchemy             |Potions and poisons you make are twice as strong.                     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058215",
+    "Name": "Physician",
+    "Description": "Potions you mix that restore Health, Magicka or Stamina are 25% more powerful.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 20,
+    "ListString": "Physician                     |Alchemy             |Potions you mix that restore Health, Magicka or Stamina are 25% more p"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058216",
+    "Name": "Benefactor",
+    "Description": "Potions you mix with beneficial effects have an additional 25% greater magnitude.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 30,
+    "ListString": "Benefactor                    |Alchemy             |Potions you mix with beneficial effects have an additional 25% greater"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058217",
+    "Name": "Poisoner",
+    "Description": "Poisons you mix are 25% more effective.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 30,
+    "ListString": "Poisoner                      |Alchemy             |Poisons you mix are 25% more effective.                               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058218",
+    "Name": "Experimenter",
+    "Description": "Eating an ingredient reveals first two effects.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 50,
+    "ListString": "Experimenter                  |Alchemy             |Eating an ingredient reveals first two effects.                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f2a",
+    "Name": "Experimenter",
+    "Description": "Eating an ingredient reveals first three effects.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 70,
+    "ListString": "Experimenter                  |Alchemy             |Eating an ingredient reveals first three effects.                     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f2b",
+    "Name": "Experimenter",
+    "Description": "Eating an ingredient reveals all its effects.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 90,
+    "ListString": "Experimenter                  |Alchemy             |Eating an ingredient reveals all its effects.                         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f2f",
+    "Name": "Concentrated Poison",
+    "Description": "Poisons applied to weapons last for twice as many hits.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 60,
+    "ListString": "Concentrated Poison           |Alchemy             |Poisons applied to weapons last for twice as many hits.               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f2e",
+    "Name": "Green Thumb",
+    "Description": "Two ingredients are gathered from plants.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 70,
+    "ListString": "Green Thumb                   |Alchemy             |Two ingredients are gathered from plants.                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f2c",
+    "Name": "Snakeblood",
+    "Description": "50% resistance to all poisons.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 80,
+    "ListString": "Snakeblood                    |Alchemy             |50% resistance to all poisons.                                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0005821d",
+    "Name": "Purity",
+    "Description": "All negative effects are removed from created potions, and all positive effects are removed from created poisons.",
+    "SkillType": "Alchemy",
+    "RequiredAV": 100,
+    "ListString": "Purity                        |Alchemy             |All negative effects are removed from created potions, and all positiv"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000be123",
+    "Name": "Agile Defender",
+    "Description": "Increase armor rating for Light armor by 20%.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 0,
+    "ListString": "Agile Defender                |Light Armor         |Increase armor rating for Light armor by 20%.                         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079376",
+    "Name": "Agile Defender",
+    "Description": "Increase armor rating for Light armor by 40%.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 20,
+    "ListString": "Agile Defender                |Light Armor         |Increase armor rating for Light armor by 40%.                         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079389",
+    "Name": "Agile Defender",
+    "Description": "Increase armor rating for Light armor by 60%.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 40,
+    "ListString": "Agile Defender                |Light Armor         |Increase armor rating for Light armor by 60%.                         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079391",
+    "Name": "Agile Defender",
+    "Description": "Increase armor rating for Light armor by 80%.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 60,
+    "ListString": "Agile Defender                |Light Armor         |Increase armor rating for Light armor by 80%.                         "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00079392",
+    "Name": "Agile Defender",
+    "Description": "Increase armor rating for Light armor by 100%.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 80,
+    "ListString": "Agile Defender                |Light Armor         |Increase armor rating for Light armor by 100%.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00051b1b",
+    "Name": "Custom Fit",
+    "Description": "25% Armor bonus if wearing all Light Armor: head, chest, hands, feet.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 30,
+    "ListString": "Custom Fit                    |Light Armor         |25% Armor bonus if wearing all Light Armor: head, chest, hands, feet. "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00051b1c",
+    "Name": "Unhindered",
+    "Description": "Light Armor weighs nothing and doesn\u0027t slow you down when worn.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 50,
+    "ListString": "Unhindered                    |Light Armor         |Light Armor weighs nothing and doesn\u0027t slow you down when worn.       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f22",
+    "Name": "Wind Walker",
+    "Description": "Stamina regenerates 50% faster in all Light Armor: head, chest, hands, feet.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 60,
+    "ListString": "Wind Walker                   |Light Armor         |Stamina regenerates 50% faster in all Light Armor: head, chest, hands,"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00051b17",
+    "Name": "Matching Set",
+    "Description": "Additional 25% Armor bonus if wearing a matched set\u00A0of Light Armor.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 70,
+    "ListString": "Matching Set                  |Light Armor         |Additional 25% Armor bonus if wearing a matched set\u00A0of Light Armor.   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00107831",
+    "Name": "Deft Movement",
+    "Description": "10% chance of avoiding all damage from a melee attack while wearing all Light Armor: head, chest, hands, feet.",
+    "SkillType": "Light Armor",
+    "RequiredAV": 100,
+    "ListString": "Deft Movement                 |Light Armor         |10% chance of avoiding all damage from a melee attack while wearing al"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000f392a",
+    "Name": "Novice Locks",
+    "Description": "Novice locks are much easier to pick.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 0,
+    "ListString": "Novice Locks                  |Lockpicking         |Novice locks are much easier to pick.                                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000be125",
+    "Name": "Apprentice Locks",
+    "Description": "Apprentice locks are much easier to pick.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 25,
+    "ListString": "Apprentice Locks              |Lockpicking         |Apprentice locks are much easier to pick.                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00106259",
+    "Name": "Quick Hands",
+    "Description": "Able to pick locks without being noticed.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 40,
+    "ListString": "Quick Hands                   |Lockpicking         |Able to pick locks without being noticed.                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00107830",
+    "Name": "Wax Key",
+    "Description": "Automatically gives you a copy of a picked lock\u0027s key if it has one.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 50,
+    "ListString": "Wax Key                       |Lockpicking         |Automatically gives you a copy of a picked lock\u0027s key if it has one.  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c3680",
+    "Name": "Adept Locks",
+    "Description": "Adept locks are much easier to pick.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 50,
+    "ListString": "Adept Locks                   |Lockpicking         |Adept locks are much easier to pick.                                  "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0005820a",
+    "Name": "Golden Touch",
+    "Description": "Find more gold in chests.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 60,
+    "ListString": "Golden Touch                  |Lockpicking         |Find more gold in chests.                                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f26",
+    "Name": "Treasure Hunter",
+    "Description": "50% greater chance of finding special treasure.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 70,
+    "ListString": "Treasure Hunter               |Lockpicking         |50% greater chance of finding special treasure.                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c3681",
+    "Name": "Expert Locks",
+    "Description": "Expert locks are much easier to pick.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 75,
+    "ListString": "Expert Locks                  |Lockpicking         |Expert locks are much easier to pick.                                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058208",
+    "Name": "Locksmith",
+    "Description": "Pick starts close to the lock opening position.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 80,
+    "ListString": "Locksmith                     |Lockpicking         |Pick starts close to the lock opening position.                       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058209",
+    "Name": "Unbreakable",
+    "Description": "Lockpicks never break.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 100,
+    "ListString": "Unbreakable                   |Lockpicking         |Lockpicks never break.                                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c3682",
+    "Name": "Master Locks",
+    "Description": "Master locks are much easier to pick.",
+    "SkillType": "Lockpicking",
+    "RequiredAV": 100,
+    "ListString": "Master Locks                  |Lockpicking         |Master locks are much easier to pick.                                 "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000be124",
+    "Name": "Light Fingers",
+    "Description": "Pickpocketing bonus of 20%.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 0,
+    "ListString": "Light Fingers                 |Pickpocket          |Pickpocketing bonus of 20%.                                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00018e6a",
+    "Name": "Light Fingers",
+    "Description": "Pickpocketing bonus of 40%.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 20,
+    "ListString": "Light Fingers                 |Pickpocket          |Pickpocketing bonus of 40%.                                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00018e6b",
+    "Name": "Light Fingers",
+    "Description": "Pickpocketing bonus of 60%.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 40,
+    "ListString": "Light Fingers                 |Pickpocket          |Pickpocketing bonus of 60%.                                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00018e6c",
+    "Name": "Light Fingers",
+    "Description": "Pickpocketing bonus of 80%.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 60,
+    "ListString": "Light Fingers                 |Pickpocket          |Pickpocketing bonus of 80%.                                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00018e6d",
+    "Name": "Light Fingers",
+    "Description": "Pickpocketing bonus of 100%.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 80,
+    "ListString": "Light Fingers                 |Pickpocket          |Pickpocketing bonus of 100%.                                          "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058202",
+    "Name": "Night Thief",
+    "Description": "\u002B25% chance to pickpocket if the target is asleep.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 30,
+    "ListString": "Night Thief                   |Pickpocket          |\u002B25% chance to pickpocket if the target is asleep.                    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058204",
+    "Name": "Cutpurse",
+    "Description": "Pickpocketing gold is 50% easier.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 40,
+    "ListString": "Cutpurse                      |Pickpocket          |Pickpocketing gold is 50% easier.                                     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f28",
+    "Name": "Poisoned",
+    "Description": "Silently harm enemies by placing poisons in their pockets.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 40,
+    "ListString": "Poisoned                      |Pickpocket          |Silently harm enemies by placing poisons in their pockets.            "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00096590",
+    "Name": "Extra Pockets",
+    "Description": "Carrying capacity is increased by 100.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 50,
+    "ListString": "Extra Pockets                 |Pickpocket          |Carrying capacity is increased by 100.                                "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000d79a0",
+    "Name": "Keymaster",
+    "Description": "Pickpocketing keys almost always works.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 60,
+    "ListString": "Keymaster                     |Pickpocket          |Pickpocketing keys almost always works.                               "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058201",
+    "Name": "Misdirection",
+    "Description": "Can pickpocket equipped weapons.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 70,
+    "ListString": "Misdirection                  |Pickpocket          |Can pickpocket equipped weapons.                                      "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058205",
+    "Name": "Perfect Touch",
+    "Description": "Can pickpocket equipped items.",
+    "SkillType": "Pickpocket",
+    "RequiredAV": 100,
+    "ListString": "Perfect Touch                 |Pickpocket          |Can pickpocket equipped items.                                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000be126",
+    "Name": "Stealth",
+    "Description": "You are 20% harder to detect when sneaking.",
+    "SkillType": "Sneak",
+    "RequiredAV": 0,
+    "ListString": "Stealth                       |Sneak               |You are 20% harder to detect when sneaking.                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07c6",
+    "Name": "Stealth",
+    "Description": "You are 25% harder to detect when sneaking.",
+    "SkillType": "Sneak",
+    "RequiredAV": 20,
+    "ListString": "Stealth                       |Sneak               |You are 25% harder to detect when sneaking.                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07c7",
+    "Name": "Stealth",
+    "Description": "You are 30% harder to detect when sneaking.",
+    "SkillType": "Sneak",
+    "RequiredAV": 40,
+    "ListString": "Stealth                       |Sneak               |You are 30% harder to detect when sneaking.                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07c8",
+    "Name": "Stealth",
+    "Description": "You are 35% harder to detect when sneaking.",
+    "SkillType": "Sneak",
+    "RequiredAV": 60,
+    "ListString": "Stealth                       |Sneak               |You are 35% harder to detect when sneaking.                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07c9",
+    "Name": "Stealth",
+    "Description": "You are 40% harder to detect when sneaking.",
+    "SkillType": "Sneak",
+    "RequiredAV": 80,
+    "ListString": "Stealth                       |Sneak               |You are 40% harder to detect when sneaking.                           "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058210",
+    "Name": "Backstab",
+    "Description": "Sneak attacks with one-handed weapons now do six times damage.",
+    "SkillType": "Sneak",
+    "RequiredAV": 30,
+    "ListString": "Backstab                      |Sneak               |Sneak attacks with one-handed weapons now do six times damage.        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058213",
+    "Name": "Muffled Movement",
+    "Description": "Wearing armor makes half as much noise when you move (see\u00A0muffle).",
+    "SkillType": "Sneak",
+    "RequiredAV": 30,
+    "ListString": "Muffled Movement              |Sneak               |Wearing armor makes half as much noise when you move (see\u00A0muffle).    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "001036f0",
+    "Name": "Deadly Aim",
+    "Description": "Sneak attacks with bows now do three times damage.",
+    "SkillType": "Sneak",
+    "RequiredAV": 40,
+    "ListString": "Deadly Aim                    |Sneak               |Sneak attacks with bows now do three times damage.                    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "0005820c",
+    "Name": "Light Foot",
+    "Description": "You won\u0027t trigger\u00A0pressure plates.",
+    "SkillType": "Sneak",
+    "RequiredAV": 40,
+    "ListString": "Light Foot                    |Sneak               |You won\u0027t trigger\u00A0pressure plates.                                    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058211",
+    "Name": "Assassin\u0027s Blade",
+    "Description": "Sneak attacks with daggers now do a total of fifteen times normal damage.",
+    "SkillType": "Sneak",
+    "RequiredAV": 50,
+    "ListString": "Assassin\u0027s Blade              |Sneak               |Sneak attacks with daggers now do a total of fifteen times normal dama"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f23",
+    "Name": "Silent Roll",
+    "Description": "Sprinting while sneaking executes a silent forward roll.",
+    "SkillType": "Sneak",
+    "RequiredAV": 50,
+    "ListString": "Silent Roll                   |Sneak               |Sprinting while sneaking executes a silent forward roll.              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f24",
+    "Name": "Silence",
+    "Description": "Walking and running does not affect detection.",
+    "SkillType": "Sneak",
+    "RequiredAV": 70,
+    "ListString": "Silence                       |Sneak               |Walking and running does not affect detection.                        "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058214",
+    "Name": "Shadow Warrior",
+    "Description": "Crouching stops combat for a moment and forces distant opponents to search for a target.",
+    "SkillType": "Sneak",
+    "RequiredAV": 100,
+    "ListString": "Shadow Warrior                |Sneak               |Crouching stops combat for a moment and forces distant opponents to se"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000be128",
+    "Name": "Haggling",
+    "Description": "Buying and selling prices are 10% better.",
+    "SkillType": "Speech",
+    "RequiredAV": 0,
+    "ListString": "Haggling                      |Speech              |Buying and selling prices are 10% better.                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07ce",
+    "Name": "Haggling",
+    "Description": "Buying and selling prices are 15% better.",
+    "SkillType": "Speech",
+    "RequiredAV": 20,
+    "ListString": "Haggling                      |Speech              |Buying and selling prices are 15% better.                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07cf",
+    "Name": "Haggling",
+    "Description": "Buying and selling prices are 20% better.",
+    "SkillType": "Speech",
+    "RequiredAV": 40,
+    "ListString": "Haggling                      |Speech              |Buying and selling prices are 20% better.                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07d0",
+    "Name": "Haggling",
+    "Description": "Buying and selling prices are 25% better.",
+    "SkillType": "Speech",
+    "RequiredAV": 60,
+    "ListString": "Haggling                      |Speech              |Buying and selling prices are 25% better.                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "000c07d1",
+    "Name": "Haggling",
+    "Description": "Buying and selling prices are 30% better.",
+    "SkillType": "Speech",
+    "RequiredAV": 80,
+    "ListString": "Haggling                      |Speech              |Buying and selling prices are 30% better.                             "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f75",
+    "Name": "Allure",
+    "Description": "10% better prices with the opposite sex.",
+    "SkillType": "Speech",
+    "RequiredAV": 30,
+    "ListString": "Allure                        |Speech              |10% better prices with the opposite sex.                              "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f72",
+    "Name": "Bribery",
+    "Description": "Can bribe guards to ignore crimes.",
+    "SkillType": "Speech",
+    "RequiredAV": 30,
+    "ListString": "Bribery                       |Speech              |Can bribe guards to ignore crimes.                                    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f7a",
+    "Name": "Merchant",
+    "Description": "Can sell any type of item to any kind of merchant.",
+    "SkillType": "Speech",
+    "RequiredAV": 50,
+    "ListString": "Merchant                      |Speech              |Can sell any type of item to any kind of merchant.                    "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "001090a2",
+    "Name": "Persuasion",
+    "Description": "Persuasion attempts are 30% easier.",
+    "SkillType": "Speech",
+    "RequiredAV": 50,
+    "ListString": "Persuasion                    |Speech              |Persuasion attempts are 30% easier.                                   "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f7b",
+    "Name": "Investor",
+    "Description": "Can invest 500 gold with a shopkeeper to increase his available gold permanently.",
+    "SkillType": "Speech",
+    "RequiredAV": 70,
+    "ListString": "Investor                      |Speech              |Can invest 500 gold with a shopkeeper to increase his available gold p"
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00105f29",
+    "Name": "Intimidation",
+    "Description": "Intimidation is twice as likely to be successful.",
+    "SkillType": "Speech",
+    "RequiredAV": 70,
+    "ListString": "Intimidation                  |Speech              |Intimidation is twice as likely to be successful.                     "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "00058f79",
+    "Name": "Fence",
+    "Description": "Can barter stolen goods with any merchant you have invested in.",
+    "SkillType": "Speech",
+    "RequiredAV": 90,
+    "ListString": "Fence                         |Speech              |Can barter stolen goods with any merchant you have invested in.       "
+  },
+  {
+    "pluginName": "Skyrim.esm",
+    "FormID": "001090a5",
+    "Name": "Master Trader",
+    "Description": "Every merchant in the world gains 1000 gold for bartering.",
+    "SkillType": "Speech",
+    "RequiredAV": 100,
+    "ListString": "Master Trader                 |Speech              |Every merchant in the world gains 1000 gold for bartering.            "
+  }
+]
