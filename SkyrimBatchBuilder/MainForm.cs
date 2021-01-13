@@ -14,7 +14,6 @@ namespace SkyrimBatchBuilder
     {
         public ReferenceLists itemsList = new ReferenceLists();
         public List<Perk> perksList = new List<Perk>();
-        private int settingFail = 0;
         public MainForm()
         {
             InitializeComponent();
@@ -66,16 +65,20 @@ namespace SkyrimBatchBuilder
         private void settingsClick(object sender, EventArgs e)
         {
             Settings settingsForm = new Settings();
-            settingsForm.ShowDialog();
-            SSEEditCheck();
+            if(settingsForm.ShowDialog() == DialogResult.Cancel && !File.Exists(ConfigurationManager.AppSettings["sseedit"] + "\\SSEEdit.exe"))
+            {
+                this.Close();
+            }
+            else
+            {
+                SSEEditCheck();
+            }
         }
 
         private void SSEEditCheck()
         {
             if (!File.Exists(ConfigurationManager.AppSettings["sseedit"] + "\\SSEEdit.exe"))
             {
-                if(settingFail > 5) WriteLN("Just set the damn file.",DebugMode.Disabled);
-                settingFail++;
                 WriteLN("Set SSE Edit path in settings.", DebugMode.Disabled);
                 settingsClick(null, null);
             }
