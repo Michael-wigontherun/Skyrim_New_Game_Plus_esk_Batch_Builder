@@ -20,16 +20,16 @@ Run the  SkyrimBatchBuilder.exe and make sure the path to SSEEdit is correct.
 
 Usage
 
-Once installed correctly open make sure the path to SSEEdit is correct and in the menu strip click Generate => Item Lists. let SSEEdit run through the script. You will not need to do this again until you add a new mod that adds items.
-Then inside the Batch builder in the menu click Build => References. 
-Once the References Reader opens click Build => All Lists.  Once its finished you can close the reader. You will not need to do this again until you update the generate a new list.
-In the profile tab you need to set the profile name if you want to save the profile. you can also set the level, starting gold amount, carry weight, starting dragon souls, player stats and your each skill level
-now in the main Profile Creation window click Load => References. Now you can go through the tabs and select what your character will need in terms of items.
-For perks do relatively the same steps. Except it will open the file explorer to select a list. Skyrim and Ordinator perks list I have already created the lists you will not need to do this for those 2 perk lists. (Submit all perk list requests GitHub page in issues using the milestone "Perk list Request.")
-Once you have selected everything you would like to have for your new game+, If you want to have this profile you can click Build => Profile / Rebuild to save your profile or update it, or Overload Profile to save only the items spells and perks.
-Once you are happy with your profile click Export => Profile or if you do not want to save it and only want what you have in the current session click Export => Current Session. Either of these will take you to the Export Profile window.
-In the Export Profile window, click Load Order => Update to update the load order or if you just built the references click Load Order => Current.
-Finally click Build Batch and select All if you want the full profile to be built, or Only Items if you want only the items.
+  Once installed correctly open make sure the path to SSEEdit is correct and in the menu strip click Generate => Item Lists. let SSEEdit run through the script. You will not need to do this again until you add a new mod that adds items.
+  Then inside the Batch builder in the menu click Build => References. 
+  Once the References Reader opens click Build => All Lists.  Once its finished you can close the reader. You will not need to do this again until you update the generate a new list.
+  In the profile tab you need to set the profile name if you want to save the profile. you can also set the level, starting gold amount, carry weight, starting dragon souls, player stats and your each skill level
+  Now in the main Profile Creation window click Load => References. Now you can go through the tabs and select what your character will need in terms of items.
+  For perks do relatively the same steps. Except it will open the file explorer to select a list. Skyrim and Ordinator perks list I have already created the lists you will not need to do this for those 2 perk lists. (Submit all perk list requests GitHub page in issues using the milestone "Perk list Request.")
+  Once you have selected everything you would like to have for your new game+, If you want to have this profile you can click Build => Profile / Rebuild to save your profile or update it, or Overload Profile to save only the items spells and perks.
+  Once you are happy with your profile click Export => Profile or if you do not want to save it and only want what you have in the current session click Export => Current Session. Either of these will take you to the Export Profile window.
+  In the Export Profile window, click Load Order => Update to update the load order or if you just built the references click Load Order => Current.
+  Finally click Build Batch and select All if you want the full profile to be built, or Only Items if you want only the items.
 
 Filters
 
