@@ -25,6 +25,17 @@ begin
         'Misc Item'
     ]));
   end;
+  if Signature(e) = 'AMMO' then begin
+    if GetElementEditValues(e, 'FULL - Name') = '' then Exit;
+    if IsMaster(e) = false then Exit;
+    slMisc.Add(Format('%s;%s;%s;%s;%s', [
+        BaseName(GetFile(e)),
+        GetStringFormID(e),
+        GetElementEditValues(e, 'EDID - Editor ID'),
+        GetElementEditValues(WinningOverride(e), 'FULL - Name'),
+        'Ammo'
+    ]));
+  end;
 end;
 
 

@@ -71,7 +71,7 @@ begin
     ]));
   end;
 
-	{spells}if Signature(e) = 'BOOK' then  begin
+  {spells}if Signature(e) = 'BOOK' then  begin
     if Name(ElementByIndex(ElementByPath(e, 'DATA\Flags'),0)) = 'Teaches Spell' then begin
       spell := LinksTo(ElementByPath(WinningOverride(e), 'DATA\Spell'));
       slSpells.Add(Format('%s;%s;%s;%s;%s', [
@@ -118,6 +118,17 @@ begin
         GetElementEditValues(e, 'EDID - Editor ID'),
         GetElementEditValues(WinningOverride(e), 'FULL - Name'),
         'Misc Item'
+    ]));
+  end;
+  {Ammo}if Signature(e) = 'AMMO' then begin
+    if GetElementEditValues(e, 'FULL - Name') = '' then Exit;
+    if IsMaster(e) = false then Exit;
+    slMisc.Add(Format('%s;%s;%s;%s;%s', [
+        BaseName(GetFile(e)),
+        GetStringFormID(e),
+        GetElementEditValues(e, 'EDID - Editor ID'),
+        GetElementEditValues(WinningOverride(e), 'FULL - Name'),
+        'Ammo'
     ]));
   end;
 
