@@ -2,9 +2,10 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <ApplicationIcon>Icon1.ico</ApplicationIcon>
+    <BaseOutputPath>C:\Modding\SkyrimSE\Skyrim_New_Game_Plus_esk_Batch_Builder\SkyrimBatchBuilder\bin</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
