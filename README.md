@@ -56,4 +56,4 @@ I am only one person, I would appreciate anyone who knows or could point me in a
 I am working on a fallout 4 version but I do not know fallout 4's forms well enough yet.
 
 The tools I used to develop this were Visual Studio and Visual studio Code
-All issues, feature requests and perk list request please post to this utilities GitHub page at https://github.com/Michael-wigontherun/Skyrim_New_Game_Plus_esk_Batch_Builder﻿.
+All issues, feature requests and perk list request please post to this utilities GitHub page at https://github.com/Michael-wigontherun/Skyrim_New_Game_Plus_esk_Batch_Builder.
